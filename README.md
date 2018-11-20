@@ -1,7 +1,8 @@
 # ADFS Metadata Parser
-[![NuGet Status](https://img.shields.io/nuget/v/DrWatson.Adfs.Metadata.svg?style=flat)](https://www.nuget.org/packages/DrWatson.Adfs.Metadata)
 
 It is a small C# library to load and parse ADFS metadata. Parser was tested on ADFS 3.0.
+
+Forked from original author to convert to .NET Standard library
 
 ## Features
 
